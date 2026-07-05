@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Local storage and caches
+storage/
+.chroma/
+.pytest_cache/
+
+# Environment configurations containing keys
+.env
+
+# Node modules
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# System files
+.DS_Store
+Thumbs.db
